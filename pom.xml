@@ -18,7 +18,7 @@
 
   </dependencies>
 <properties>
-  <sonar.organization>mooc-tutorials</sonar.organization>
+  <sonar.organization>caromerom1</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   <build>
